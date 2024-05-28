@@ -16,4 +16,6 @@ public class Common1 {
 		a = a * 3;
 		return a;
 	}
+
+	//Updated
 }
